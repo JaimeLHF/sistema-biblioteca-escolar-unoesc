@@ -5,12 +5,6 @@
   <strong>ATIVIDADE AVALIATIVA 1</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/UNOESC-2026-8b3a1e?style=flat-square" alt="UNOESC 2026">
-  <img src="https://img.shields.io/badge/status-modelagem-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/ferramenta-draw.io-orange?style=flat-square" alt="draw.io">
-</p>
-
 ---
 
 ## Sobre
